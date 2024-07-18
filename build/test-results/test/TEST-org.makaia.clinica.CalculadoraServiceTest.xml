@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.makaia.clinica.CalculadoraServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-16T13:05:00" hostname="DESKTOP-GADBHEF" time="0.038">
+<testsuite name="org.makaia.clinica.CalculadoraServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-07-18T12:11:14" hostname="DESKTOP-GADBHEF" time="0.04">
   <properties/>
-  <testcase name="sumarCuenadoPrimerNumeroEsZero()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.024"/>
+  <testcase name="sumarCuenadoPrimerNumeroEsZero()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.025"/>
   <testcase name="sumarDosNumerosPositivos()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.001"/>
-  <testcase name="sumarDosNumerosPositivosNegativos()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.001"/>
+  <testcase name="sumarDosNumerosPositivosNegativos()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.002"/>
   <testcase name="sumarDosNumerosNegativos()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.001"/>
   <testcase name="dividirPorZero()" classname="org.makaia.clinica.CalculadoraServiceTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
